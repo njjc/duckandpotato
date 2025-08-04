@@ -1,0 +1,11 @@
+---
+id: 365
+title: 'Antipope: Not Like Antimatter, it Turns Out'
+date: '2014-09-03T14:06:30+00:00'
+author: potato
+layout: revision
+guid: 'http://www.duckandpotato.com/blog/2014/09/03/364-revision-v1/'
+permalink: '/?p=365'
+---
+
+I've been doing a lot of reading about Europe in the Middle Ages, because walking around in 13th century castles makes you want to read about how in the hell they got big fucking rocks 200 feet in the air but didn't understand that maybe you shouldn't divert sewage into your drinking water. There are many references to various "itinerant courts". Henry II's "itinerant court". Pope Clement V's "itinerant court". I picture a VW camping van at a rest stop and a lot of people in tights standing around a folding table on which you would spread a vinyl tablecloth for a picnic. Which I think means I totally get history. What I like about politics in the Middle Ages are things like "Henry mobilized the Poitou nobles for an attack on the French king. None of them wanted to do it though, so nothing happened and everybody went home." Standing armies weren't a thing then! So every time the king wanted to invade something, he had to walk there, trying to get people to come with him to war along the way. It's like the world's worst conga line. Just as embarrassing and horrible as a conga line someone tries to get you to join at your cousin's wedding, but instead of it ending with you pretending you have to use the restroom (my patented method for leaving unsavory situations, because no one can dispute it), it ends with you dying in Jerusalem. What's the point of this blog post? I took a bunch of Benadryl because I'm allergic to France and a mosquito bit me and my arm swelled up a whole bunch and it's gross and the Benadryl makes me feel loopy. Oh yeah, we went to Avignon. Avignon is fascinating and beautiful. People have been living in Avignon since always. [Many very interesting things have happened there](http://en.wikipedia.org/wiki/Avignon), featuring people with awesome names such as Childebert, Gundobad and Clothilde.

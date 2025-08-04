@@ -1,0 +1,13 @@
+---
+id: 311
+title: 'An Ode to My Husband (No Longer &#8216;Pre&#8217;, But in Fact, Actual)'
+date: '2014-08-14T14:29:38+00:00'
+author: potato
+layout: post
+guid: 'http://www.duckandpotato.com/?p=311'
+permalink: '/?p=311'
+categories:
+    - Nonsense
+---
+
+Some facts. 1. Nic can parallel park ANYWHERE. Today I saw him fit our rental car into a space the size of an armchair. I think there was magic involved. 2. Nic has been reading many articles about steak and how to best cook it for like 2 days. He keeps reading bits of them aloud, like "it says to baste it in its own juices, if you're cooking a ribeye. Probably with herbs. It'd be good with herbs." 3. Nic has been drinking rosé with me a lot. This is nice because at home he drinks beer and when he does drink wine he prefers red, but he keeps saying "let's order rosé!" because he knows I love it and he's the best person in the world. 4. I keep suggesting we visit towns which turn out to be horrible, and Nic is always like "how could you know what it would be like? I thought it would be cool too. There should be an app that tells you which towns are cool." Like 4 times this has happened, and he is never a jerk about it. 5. We stopped at one of these million towns on the beach and walked across this weird, fenced off expanse of land to get to the actual beach part. On the way back to the car, as we were walking back across the weird expanse, I noticed a lot of holes in the ground, where some sort of creature might live. These holes, together with the facts that the weird expanse was fenced all around and there were a lot of seashells sprinkled around, prompted me to become convinced that the land was occupied by fairies, and the locals had fenced it off as a kind of fairy preserve. I became legitimately concerned about the fact that we were rudely tromping across fairy land and would surely be visited with a lot of bad luck, if not an outright curse, for doing so. When I insisted on going back and leaving a bar of chocolate and a flower as an offering to the fairies, Nic said "good idea. You should pour some wine out for them too, probably." 6. He doesn't make fun of me when I say things in French. He'll even say "your accent is so good!", which I know is a lie, but which is a really nice lie. 7.
