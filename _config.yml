@@ -1,6 +1,6 @@
-url: 'http://www.duckandpotato.com'
-name: 'Duck and Potato'
-description: 'A travel and food blog'
+url: "https://duckandpotato.com"
+name: "Duck and Potato"
+description: "A travel and food blog"
 theme: minima
 plugins:
-  - jekyll-feed
+    - jekyll-feed
