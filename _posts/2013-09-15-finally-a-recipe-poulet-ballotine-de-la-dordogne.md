@@ -15,7 +15,7 @@ Poulet Ballotine de la Dordogne (Chicken stuffed with figs and pork sausage)
 Prep time: 30 mins
 Cook time: 1 hour
 
-![http://www.duckandpotato.com/wp-content/uploads/2013/09/IMGP0169-1024x678.jpg](raw chicken, sausage, figs, shallots, and garlic.)
+![raw chicken, sausage, figs, shallots, and garlic.](https://duckandpotato.com/wp-content/uploads/2013/09/IMGP0169.jpg)
 * The Fat of the Land*
 **Ingredients**
 
@@ -26,7 +26,7 @@ Cook time: 1 hour
 	Three cloves of garlic
 	Salt and Pepper
 
-![http://www.duckandpotato.com/wp-content/uploads/2013/09/IMGP0177-1024x678.jpg](Deboning the chicken)
+![Deboning the chicken](https://duckandpotato.com/wp-content/uploads/2013/09/IMGP0177.jpg)
 * Deboning the chicken with a very dull knife.*
 
 	Preheat the oven to 400°F / 200°C.
@@ -39,9 +39,9 @@ Cook time: 1 hour
 	Place the bulk sausage in the middle of the chicken and wrap the chicken around it.
 	Flip it over, bake in a baking dish for one hour.
 
-[![cooked chicken](http://www.duckandpotato.com/wp-content/uploads/2013/09/IMGP0207-1024x678.jpg)](http://www.duckandpotato.com/wp-content/uploads/2013/09/IMGP0207.jpg)
+[![cooked chicken](https://duckandpotato.com/wp-content/uploads/2013/09/IMGP0207.jpg)](https://duckandpotato.com/wp-content/uploads/2013/09/IMGP0207.jpg)
 
 This chicken was really delicious. The taste of the *terroir* really came out in the locally farmed ingredients and in the figs from the garden. Don't be afraid to try your hand at deboning a chicken, and let your imagination run wild with the fillings!
 
-![http://www.duckandpotato.com/wp-content/uploads/2013/09/IMGP0208-678x1024.jpg](Our tablescape.)
+![Our tablescape.](https://duckandpotato.com/wp-content/uploads/2013/09/IMGP0208.jpg)
 * Our tablescape.*

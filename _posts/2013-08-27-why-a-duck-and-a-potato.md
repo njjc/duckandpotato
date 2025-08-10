@@ -4,7 +4,7 @@ date: '2013-08-27 01:50:55'
 layout: post
 ---
 
-I'm glad I asked. The potato originated in the New World, just like me and Cat. Once discovered, it quickly traveled across the globe, expanding the culinary experience of those it encountered. Such is our hope for [duckandpotato.com](http://www.duckandpotato.com/)
+I'm glad I asked. The potato originated in the New World, just like me and Cat. Once discovered, it quickly traveled across the globe, expanding the culinary experience of those it encountered. Such is our hope for [duckandpotato.com](https://duckandpotato.com/)
 
 When the potato was having trouble gaining popularity in 18th century France, Louis XVI planted a plot of potatoes and set his most elite guard to watch over it. The local peasants, thinking their king must be keeping something good from them, stole some of the plants and started to grow them themselves. I actually employed a similar strategy when Cat and I first met. Anyway, from that point forward, the potato spread across the French countryside like wildfire.
 

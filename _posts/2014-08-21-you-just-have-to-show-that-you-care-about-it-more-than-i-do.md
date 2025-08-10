@@ -14,7 +14,7 @@ So, yesterday, with nary 10 minutes of instruction on a back road, she was ready
 
 Which brings me to her willpower. She has proven time and again that she can and will do anything she puts her mind to. A week ago we visited Mont St. Michel, and I was trying my best to get a panorama picture of her, the monastery, and a rainbow that had fortuitously sprouted up as we were walking toward the monastery. Everything lined up perfectly, except for one thing.
 
-[![Awesome picture with crapface](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3223-1024x233.jpg)](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3223.jpg)
+[![Awesome picture with crapface](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3223.jpg)](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3223.jpg)
 
 She had made a terrible face for a picture with ample warning to make a decent one. She immediately defended herself when I brought it up, "I can't help it! I always make terrible faces in pictures!"
 
@@ -22,18 +22,18 @@ She had made a terrible face for a picture with ample warning to make a decent o
 
 Since I have learned well, I went on a brief yet passionate diatribe about how she could most definitely make reasonable faces, that she really had no reason not to, and that I was tired of her ruining pictures.
 
-[![Much better](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3225-1024x221.jpg)](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3225.jpg)
+[![Much better](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3225.jpg)](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3225.jpg)
 
 So in every picture since then, she has made very cute and reasonable faces. When I mentioned it a few days later, she laughed. "You really just have to show that you care about the thing more than I do, and I'm happy to do it." Now I just have to figure out how to apply that to getting her playing video games with me.
 
-[![Such a good face!](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3231-e1408480833364-1024x768.jpg)](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3231-e1408480833364.jpg)
+[![Such a good face!](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3231-e1408480833364.jpg)](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3231-e1408480833364.jpg)
 
-[![Another reasonable face!](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3252-e1408481215361.jpg)](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3252.jpg)
+[![Another reasonable face!](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3252-e1408481215361.jpg)](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3252.jpg)
 
  
 
 Mont Saint-Michel is beautiful, and also overrun with tourists like ourselves. Still more than worth the visit, though. If you do go, eat a crepe at the Sirene restaurant, tucked in above a souvenir shop, with awesome cider and reasonable prices compared to the rest of the place.
 
-[![Beautiful Mont Saint-Michel](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3263-e1408481509758-1024x768.jpg)](http://www.duckandpotato.com/wp-content/uploads/2014/08/IMG_3263-e1408481509758.jpg)
+[![Beautiful Mont Saint-Michel](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3263-e1408481509758.jpg)](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3263-e1408481509758.jpg)
 
 - N

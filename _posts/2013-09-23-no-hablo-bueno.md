@@ -12,7 +12,7 @@ I defended my lack of speaking any French by saying to people, who, by the way, 
 
 But then Nic and I came to Spain, upon which time he said "ok, we're in Spain. Now you be in charge of talking." AS THOUGH THE THINGS I HAD SAID ABOUT TAKING SPANISH IN SCHOOL INDICATED THAT I SPEAK SPANISH.
 
-![nic exasperated](http://www.duckandpotato.com/wp-content/uploads/2013/09/nic-exasperated-1024x678.jpg)
+![nic exasperated](https://duckandpotato.com/wp-content/uploads/2013/09/nic-exasperated.jpg)
 * this is a picture of nic every time i don't speak spanish.**actually i made him stand in a grotto at parc guell so i could take pictures of him and THEN i made him take his sunglasses off and his eyes burned out of his head because it was so bright. but isn't the first version funnier?*
 
 As it turns out, I don't speak Spanish. At all. Today I remembered how to say "can I pay the bill, please" and it felt like discovering fucking penicillin. Also, after thinking about it with as much concentration as I've ever used in my life, I remembered that the word for ice is hielo. I felt like I'd birthed a child.
@@ -21,5 +21,5 @@ Unfortunately, speaking a language does not just consist of vocabulary. Sí, EL 
 
 Not never, but rarely.
 
-![seeing as this post isn't really about anything, here is a picture of the ceiling at parc guell. it needs to be this epic and huge to hold up the weight of 12810 fat tourists, including us.](http://www.duckandpotato.com/wp-content/uploads/2013/09/guell-ceiling-1024x678.jpg)
+![seeing as this post isn't really about anything, here is a picture of the ceiling at parc guell. it needs to be this epic and huge to hold up the weight of 12810 fat tourists, including us.](https://duckandpotato.com/wp-content/uploads/2013/09/guell-ceiling.jpg)
 * seeing as this post isn't really about anything, here is a picture of the ceiling at parc guell for some actual content. the place needs to be this epic and huge to hold up the weight of 12810 fat tourists. sorry, 12812.*

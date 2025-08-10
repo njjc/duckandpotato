@@ -10,14 +10,14 @@ We arrived yesterday afternoon, and in the course of staying up for 28 hours in 
 
 And then also Nic made seared duck breast, for which I made a sauce of wine and fresh green plums. Which we enjoyed while sitting on the balcony looking at the boats in the canal as the sun set. Then we had a fresh peach tart for dessert. But that is neither here nor there.
 
-![Like I said, France is ugly.](http://www.duckandpotato.com/wp-content/uploads/2013/09/photo-2.jpg)
+![Like I said, France is ugly.](https://duckandpotato.com/wp-content/uploads/2013/09/photo-2.jpg)
 * Like I said, France is ugly.*
 
 Anyway. The grocery store. Here is a list of weird/amazing things they have:
 
 The French don't refrigerate their eggs. Not at home, and not at the store. Apparently they don't wash the eggs when they gather them up (probably from really happy and cultured chickens who roam free around a 300 year old farmhouse) so it makes them never go bad. It's amazing, and it's funny to think about how much that would freak people out in America. They have anti-bacterial wipes so you can WIPE DOWN THE HAND GRIP OF YOUR GROCERY CART in the US. I highly doubt unrefrigerated eggs would go over.
 
-![This picture is awful because I was trying to limit the idiocy of taking a picture of something in a grocery store by doing it as surreptitiously as possible.](http://www.duckandpotato.com/wp-content/uploads/2013/09/image.jpeg)
+![This picture is awful because I was trying to limit the idiocy of taking a picture of something in a grocery store by doing it as surreptitiously as possible.](https://duckandpotato.com/wp-content/uploads/2013/09/image.jpeg)
 * This picture is awful because I was trying to limit the idiocy of taking a picture of something in a grocery store by doing it as surreptitiously as possible. But, as you can see, these eggs are on REGULAR, UN-REFRIGERATED SHELVES!*
 
 They have like 14 kinds of pate in the deli counter. They are also very casual about it, as though having many kinds of pate is not magical and rare like a unicorn singing karaoke while wearing a Hawaiian shirt. Also, pate is like $0.43 per pound. In America, pre-made pate is so expensive that it is stupid not to make it yourself, because somehow pre-made pate is $12.32 per pound, but chicken livers are $1.04 per pound. But here, in this magical fairyland of meat snacks, there are a million kinds of pate for no money at all.

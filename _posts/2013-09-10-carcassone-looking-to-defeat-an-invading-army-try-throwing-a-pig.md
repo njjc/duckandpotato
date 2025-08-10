@@ -4,7 +4,7 @@ date: '2013-09-10 22:07:03'
 layout: post
 ---
 
-![I challenge anyone who says this isn't the raddest photo ever taken](http://www.duckandpotato.com/wp-content/uploads/2013/09/carcassonne-night.jpg)
+![I challenge anyone who says this isn't the raddest photo ever taken](https://duckandpotato.com/wp-content/uploads/2013/09/carcassonne-night.jpg)
 * I challenge anyone who says this isn't the raddest photo ever taken*
 
 Here are some things that happened during our trip to [Carcassonne](http://en.wikipedia.org/wiki/Carcassonne) (if you are one of those rare souls who is interested in history and actually clicks the links, you might also be interested in [this](http://en.wikipedia.org/wiki/Cathar), [this](http://en.wikipedia.org/wiki/Lady_Carcas), [this](http://en.wikipedia.org/wiki/Visigoths) and definitely [this](http://img.pandawhale.com/post-16298-scratch-post-IF-I-HAD-ONE-gif-dfj5.gif)):
@@ -13,34 +13,34 @@ Here are some things that happened during our trip to [Carcassonne](http://en.wi
 
 - We walked all around the outer wall of the city and I imagined what would have been happening at those spots at various points in history:
 
-![](http://www.duckandpotato.com/wp-content/uploads/2013/09/nic-walls.jpg)
+![](https://duckandpotato.com/wp-content/uploads/2013/09/nic-walls.jpg)
 * "I wonder if anyone will be mad if I make out with my hot boyfriend in a turret"*
 
 "Do you think there were little booths here where people sold bread and stuff? OR WHAT ABOUT A BLACKSMITH!!?!"
 
 "Can you imagine being a soldier who had to stand in this little circle all day, firing arrows at the army down below? Do you think they shouted shit at each other during sieges? 'Hey, asshole! Your momma is so fat they don't even MAKE wimples in her size!'"
 
-![You see, arrows go out, but they do not come in](http://www.duckandpotato.com/wp-content/uploads/2013/09/arrows.jpg)
+![You see, arrows go out, but they do not come in](https://duckandpotato.com/wp-content/uploads/2013/09/arrows.jpg)
 * You see, arrows go out, but they do not come in*
 
 - We went into the cathedral, the Basilica of St. Nazaire and St. Celse, (which was breathtaking and solemn and I totally get why Catholicism took off, that shit is MAJESTIC) and lit candles which Nic said was to remember someone who'd died but I made a wish instead (I can't say what the wish was, obvs, or it won't come true, but I CAN tell you that it was snack-related).
 
-![I am artsy, you see](http://www.duckandpotato.com/wp-content/uploads/2013/09/cathedral.jpg)
+![I am artsy, you see](https://duckandpotato.com/wp-content/uploads/2013/09/cathedral.jpg)
 * I am artsy*
 
 - Nic kept wanting to buy a sword, and I kept telling him it would be so annoying (albeit awesome) to carry around.
 
 - We discovered that Carcassone is where they filmed all of the Nottingham Castle scenes in Robin Hood: Prince of Thieves. Having watched that movie a billion times as a kid, this fact brings me enormous satisfaction. (Also, there's a part where Christian Slater fires Robin and Morgan Freeman over the castle wall with a catapult and when they make it over the wall, says "f*#k me, he cleared it" that when I was 9, I thought were the funniest words anyone had ever uttered in any language. WE SAW THAT WALL.)
 
-![This is where Robin and Azeem go flying over the wall to save Maid Marian, who was a bit of an idiot but she had curly hair so I will give her a pass](http://www.duckandpotato.com/wp-content/uploads/2013/09/fuck-me-he-cleared-it.jpg)
+![This is where Robin and Azeem go flying over the wall to save Maid Marian, who was a bit of an idiot but she had curly hair so I will give her a pass](https://duckandpotato.com/wp-content/uploads/2013/09/fuck-me-he-cleared-it.jpg)
 * This is where Robin and Azeem go flying over the wall to save Maid Marian, who was a bit of an idiot but she had curly hair so I will give her a pass*
 
 - There is a Tower of Inquisition at Carcassonne, making me think, for probably the 2381st time in my life, how much it must have sucked to be a peasant in the middle ages.
 
-![inquisition 1](http://www.duckandpotato.com/wp-content/uploads/2013/09/inquisition-1.jpg)
+![inquisition 1](https://duckandpotato.com/wp-content/uploads/2013/09/inquisition-1.jpg)
 * Imagine being up in that tower, hanging from the wall from your earlobes or something, because you made some herbs into tea or something equally SACRILEGIOUS*
 
-![inquisition 2](http://www.duckandpotato.com/wp-content/uploads/2013/09/inquisition-2.jpg)
+![inquisition 2](https://duckandpotato.com/wp-content/uploads/2013/09/inquisition-2.jpg)
 * Ok, I made up that thing about the tea but I think we can all agree the Inquisition was, historically, even worse than a Black Friday sale at Walmart*
 
 Carcassone is amazing. Go there, if ever you can. And please, order cassoulet.

@@ -10,5 +10,5 @@ We are in Domme, a fortified village in southwest France. I will not say anythin
 
 So here is a picture of Nic cutting off the cast of a guy who lives in the village, who came by this morning to say hello and invite us to dinner. They did end up getting the cast off.
 
-![After this we did a blood letting](http://www.duckandpotato.com/wp-content/uploads/2013/09/cast-pic1-764x1024.jpg)
+![After this we did a blood letting](https://duckandpotato.com/wp-content/uploads/2013/09/cast-pic1.jpg)
 * After this we did a blood letting*

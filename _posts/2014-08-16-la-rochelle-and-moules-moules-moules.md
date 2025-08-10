@@ -8,17 +8,17 @@ Perhaps you, like me, remember La Rochelle from the Three Musketeers. Upon visit
 
 La Rochelle is AWESOME, and full of fascinating history. There are medieval towers to visit with graffiti from the 17th century (exactly as florid as the Three Musketeers), the 19th century (lots of pictures of women's shoes, of all things) and WWII (it was the last city to be liberated by the Allies. Parts of Das Boot were filmed here!).
 
-![lots of pictures of ships ](http://www.duckandpotato.com/wp-content/uploads/2014/08/la-rochelle-graffiti3.jpg)
+![lots of pictures of ships ](https://duckandpotato.com/wp-content/uploads/2014/08/la-rochelle-graffiti3.jpg)
 * there were many prisoners in the tower over many hundreds of years. i'm not sure, but i think enemy sailors were routinely captured, imprisoned for 30 days and then set free? they could walk all around the tower and apparently were free to carve things into the stone, like LOUIS WEARS GIRLS' UNDERWEAR. Just kidding. They carved things like WILLIAM BARRETT, CORK, 1741.*
 
 Today I spent a bunch of time reading to Nic about Eleanor of Aquitaine, an extremely interesting lady. She was queen of both England and France in turns, gave birth to 10 children, 3 of whom became kings, lived to be 82 and made La Rochelle a free city in 1182 (it would not remain so, and after being English and French and English and French, would finally become officially French after the Siege of La Rochelle in the 17th century - the backdrop of the Three Musketeers). She was queen regent while Richard the Lionheart failed at crusading and then came back for Kevin Costner's wedding to that lady from the Abyss.
 
-![this tower is older than Eleanor of Aquitaine by about 350 years, but i feel like she would have lived in something like it](http://www.duckandpotato.com/wp-content/uploads/2014/08/la-rochelle-lighthouse-225x300.jpg)
+![this tower is older than Eleanor of Aquitaine by about 350 years, but i feel like she would have lived in something like it](https://duckandpotato.com/wp-content/uploads/2014/08/la-rochelle-lighthouse.jpg)
 * this tower is older than Eleanor of Aquitaine by about 350 years, but i feel like she would have lived in something like it*
 
 Also:  MUSSELS. Vagina-y looking, sauced with mariniere, curry, roquefort, cream, chorizo or garlic, served in a giant vat. Salty, beautiful, tasting like seawater. In French, moules.  La Rochelle is chock full of moules, and I only ate maybe 50 or so pounds of them! I love mussels. I will admit, however, that eating them is a bit like eating crab. You need a really big pile, because you do so much work to get them while you're eating that by the time you're finished, you're basically ready to eat again.
 
-![ok, i didn't take this picture myself, because i was too busy eating moules like a fiend to remember to take pictures.](http://www.duckandpotato.com/wp-content/uploads/2014/08/mussels-and-fries-300x225.jpg)
+![ok, i didn't take this picture myself, because i was too busy eating moules like a fiend to remember to take pictures.](https://duckandpotato.com/wp-content/uploads/2014/08/mussels-and-fries.jpg)
 * ok, i didn't take this picture myself, because i was too busy eating moules like a fiend to remember to take pictures.*
 
 Working title of next post: Turns Out Root Beer is Not a Thing in France

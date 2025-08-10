@@ -4,7 +4,7 @@
 @import "minima";
 
 body {
-  background-image: url('/wp-content/uploads/2013/12/GH-sunset.jpg');
+  background-image: url('https://duckandpotato.com/wp-content/uploads/2013/12/GH-sunset.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -19,13 +19,49 @@ body {
   background-color: transparent;
 }
 
-/* Make content readable with subtle text shadows and backgrounds only where needed */
-.post-content,
+/* Remove header and footer borders */
+.site-header {
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+.site-footer {
+  border-top: none !important;
+}
+
+/* Make content readable with white backgrounds */
+.post-content {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+/* Extend white background to include post title and date */
+.post-header {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 20px 20px 0 20px;
+  border-radius: 8px 8px 0 0;
+  margin: 20px 0 0 0;
+}
+
+/* Adjust post content to connect with header */
+.post-header + .post-content {
+  border-radius: 0 0 8px 8px;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Home page post list styling */
 .home .post-list {
   background-color: rgba(255, 255, 255, 0.85);
   padding: 20px;
   border-radius: 8px;
   margin: 20px 0;
+}
+
+.home .post-list .post-meta {
+  background-color: transparent;
 }
 
 /* Add Duck and Potato logo to header */
@@ -40,7 +76,7 @@ body {
   transform: translateY(-50%);
   width: 60px;
   height: 60px;
-  background: url('/wp-content/uploads/2013/12/DuckPotatoLove.png') no-repeat center;
+  background: url('https://duckandpotato.com/wp-content/uploads/2013/12/DuckPotatoLove.png') no-repeat center;
   background-size: contain;
   display: block;
   z-index: 10;

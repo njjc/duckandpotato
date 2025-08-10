@@ -4,7 +4,7 @@ date: '2013-09-20 09:37:46'
 layout: post
 ---
 
-![In this picture, I am sitting next to something beautiful while drinking a glass of rosé. This activity has occupied approximately 70% of my time in France.](http://www.duckandpotato.com/wp-content/uploads/2013/09/cat-domme-1024x768.jpg)
+![In this picture, I am sitting next to something beautiful while drinking a glass of rosé. This activity has occupied approximately 70% of my time in France.](https://duckandpotato.com/wp-content/uploads/2013/09/cat-domme.jpg)
 * In this picture, I am sitting next to something beautiful while drinking a glass of rosé. This activity has occupied approximately 70% of my time in France.*
 You just can't be a food wuss in France. There's no room for that shit. I have eaten:
 
@@ -22,7 +22,7 @@ So as I said, I have no trouble eating all the bits and pieces of land-dwelling 
 
 But then I was confronted with friture.  A big plate of tiny, WHOLE, fried fish. Like, you just eat the whole tiny fish. With garlic and lemon on it.
 
-![Here's some bread! Maybe bread will make eating whole fish less terrifying!](http://www.duckandpotato.com/wp-content/uploads/2013/09/fshes-1024x768.jpg)
+![Here's some bread! Maybe bread will make eating whole fish less terrifying!](https://duckandpotato.com/wp-content/uploads/2013/09/fshes.jpg)
 * Here's some bread! Maybe bread will make eating whole fish less terrifying!*
 
 Nic's mom was all "I eat them, heads and all. But you don't have to."
@@ -37,7 +37,7 @@ So I ate a few fishes, not the heads. And they were delicious. Salty and garlick
 
 I triumphantly select another tiny fish and then notice that it is LOOKING AT ME IN MY EYE WITH ITS EYE WITH AN EXPRESSION I CAN ONLY DESCRIBE AS MILDLY REPROACHFUL.
 
-![you could put that much garlic on a rock and I'd probably eat it](http://www.duckandpotato.com/wp-content/uploads/2013/09/fsh-heads-1024x768.jpeg)
+![you could put that much garlic on a rock and I'd probably eat it](https://duckandpotato.com/wp-content/uploads/2013/09/fsh-heads.jpeg)
 * you could put that much garlic on a rock and I'd probably eat it*
 
 Like "I understand my place in the food chain. Things eat me. I get it. But seriously, you wuss, you can't eat my head? You're gonna eat all of me BUT my head? That shit is insulting. You best grow a pair and EAT MY GOD DAMNED HEAD."
