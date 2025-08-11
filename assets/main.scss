@@ -48,8 +48,19 @@ body {
 /* Adjust post content to connect with header */
 .post-header + .post-content {
   border-radius: 0 0 8px 8px;
-  margin-top: 0;
-  padding-top: 0;
+  margin-top: 0 !important;
+  padding-top: 20px;
+}
+
+/* Ensure no gaps between post header and content */
+.post {
+  .post-header {
+    margin-bottom: 0 !important;
+  }
+  
+  .post-content {
+    margin-top: 0 !important;
+  }
 }
 
 /* Home page post list styling */
