@@ -1,6 +1,6 @@
 ---
-title: 'Why Duck and Potato; Potato's Story'
-date: '2013-08-27 16:22:00'
+title: "Why Duck and Potato; Potato's Story"
+date: "2013-08-27 16:22:00"
 layout: post
 ---
 

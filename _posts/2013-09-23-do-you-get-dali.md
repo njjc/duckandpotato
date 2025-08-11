@@ -1,6 +1,6 @@
 ---
-title: 'Do you 'get' Dalí?'
-date: '2013-09-23 15:39:51'
+title: "Do you 'get' Dalí?"
+date: "2013-09-23 15:39:51"
 layout: post
 ---
 

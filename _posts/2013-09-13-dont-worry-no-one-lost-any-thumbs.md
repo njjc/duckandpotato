@@ -1,6 +1,6 @@
 ---
-title: 'Don't Worry, No One Lost Any Thumbs'
-date: '2013-09-13 07:53:14'
+title: "Don't Worry, No One Lost Any Thumbs"
+date: "2013-09-13 07:53:14"
 layout: post
 ---
 
