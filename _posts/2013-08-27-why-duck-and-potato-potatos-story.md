@@ -12,15 +12,13 @@ Our first trip is to France, so a blog called Duck and Potato seemed appropriate
 
 Additionally, the name corresponds very well to the two people behind the blog. Though Potato has some serious reservations about it.
 
-*The following conversation has been embellished for humor.
+\*The following conversation has been embellished for humor.
 
 C: Duck and Potato is an adorable blog title, but I'm not being Potato.
 N: Why not??
 C: POTATO??? That's horrible!  Who wants to be Potato? Potatoes are like rocks that happen to be semi-edible. And not even pretty rocks.
 N: Fine, you can be Duck, I'll be Potato. Do you have to argue about EVERYTHING?
 C: Thank you. And yes.
-
-
 
 C: I am Irish and Polish so I guess I should be Potato. Potatoes aren't so bad, they make an excellent vehicle for BBQ sauce.
 N: And ducks are my favorite animal, this fact has been established.

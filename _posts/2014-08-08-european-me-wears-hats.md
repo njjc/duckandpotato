@@ -1,6 +1,6 @@
 ---
-title: 'European Me Wears Hats'
-date: '2014-08-08 16:59:10'
+title: "European Me Wears Hats"
+date: "2014-08-08 16:59:10"
 layout: post
 ---
 
@@ -9,7 +9,8 @@ Lessons learned after 2 days in Brussels:
 1. Belgians REALLY want people to know they invented french fries. They have little shops called friterie. It would be funny if there was a Belgian law that every time you bought fries in a friterie, you had to say "Belgians invented frites and also the Dutch language is real and not made up to make people sound hilarious".
 
 ![photo-6](https://duckandpotato.com/wp-content/uploads/2014/08/photo-6.jpg)
-* it's a funny irony that i like taking pictures of the outsides of churches so much, and yet dislike any activities that go on in the insides of churches*
+
+-   it's a funny irony that i like taking pictures of the outsides of churches so much, and yet dislike any activities that go on in the insides of churches\*
 
 2. Everything is photogenic in Brussels. I took the picture above on 30 hours of no sleep and a French lunch. (French lunch, or in France, lunch, is when you have wine with lunch.)
 
@@ -20,8 +21,9 @@ Lessons learned after 2 days in Brussels:
 5. There are many opportunities to buy hats. Nic's reaction to each hat I tried on was an enthusiastic "hmm!" Like, he knew it was horrible but he isn't a liar so the only thing he could honestly say while not being a jerk was a neutral "hmm"with a sort of exclamation point on the "hmm" so my feelings wouldn't be hurt. I like to think I'm the kind of person who can successfully wear a hat, but instead I believe this picture accurately depicts how good I look in hats.
 
 ![tumblr_lyiyq2ux9a1qbdizmo1_500-2](https://duckandpotato.com/wp-content/uploads/2014/08/tumblr_lyiyq2ux9a1qbdizmo1_500-2.png)
-* i feel as though this photo encapsulates so much of my personality*
+
+-   i feel as though this photo encapsulates so much of my personality\*
 
 Working title of my next post: I Have Packed All Wrong, Again
 
-- C
+-   C

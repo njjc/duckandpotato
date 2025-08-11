@@ -1,6 +1,6 @@
 ---
-title: 'If You Scrunch Your Eyes, it Looks Like Something'
-date: '2014-08-11 06:21:33'
+title: "If You Scrunch Your Eyes, it Looks Like Something"
+date: "2014-08-11 06:21:33"
 layout: post
 ---
 
@@ -9,18 +9,21 @@ We finally went to the Musee D'Orsay! Much like my experiences with the Met in N
 Like literally everything in Paris, the museum itself is beautiful. It was a train station, the Gare d'Orsay, until the 70s when it was redesigned as a museum, finally opening in 1986. It has the largest collection of impressionist and post-impressionist pieces in the world.
 
 ![out the clock and across the Seine you can see the museum I wished I was in](https://duckandpotato.com/wp-content/uploads/2014/08/gare.jpg)
-* Out the clock and across the Seine you can see the museum I wished I was in.*
+
+-   Out the clock and across the Seine you can see the museum I wished I was in.\*
 
 Perhaps I am just uncultured (I am definitely uncultured) but I can't say the impressionists are my favorite (except you, [Renoir](https://upload.wikimedia.org/wikipedia/commons/b/b5/Pierre-Auguste_Renoir_-_Torse%2C_effet_de_soleil.jpg)). I believe Nic put it best when he said "if you scrunch your eyes, it looks like something".
 
 ![impressionism: just like a magic eye](https://duckandpotato.com/wp-content/uploads/2014/08/if-you-scrunch.jpg)
-* Impressionism: Just like a Magic Eye.*
+
+-   Impressionism: Just like a Magic Eye.\*
 
 Based on the countless signs around the museum featuring a picture of a cup with a line through it (NON BOISSONS [my French is getting better and better!]), a picture of a hand with the index finger extended with a line through it (meaning either don't point at anything because it's rude and/or don't touch the paintings- both good advice in my opinion) and pictures of both cell phones and cameras with lines through them, I gathered I was not supposed to take pictures of the art. I'm a rebel though, so here's the best picture I took while visiting the Musee D'Orsay:
 
 ![I couldn't even say what this painting is or who painted it. What I do know is that I looked around real furtively before I took it while holding my phone in the vicinity of my belly button so no one would catch me. It's photography a la the dudes in Eastern Europe who go to the movies and surreptitiously take video from under their coats and you can hear them laughing and muttering in Russian during all of Jack Ryan: Shadow Recruit, which you made your now-husband download illegally for you even though he said the quality would be terrible](https://duckandpotato.com/wp-content/uploads/2014/08/illicit-painting-photo.jpg)
-* I couldn't even say what this painting is or who painted it. What I do know is that I looked around real furtively before I took it while holding my phone in the vicinity of my belly button so no one would catch me. It's photography a la the dudes in Eastern Europe who go to the movies and surreptitiously take video from under their coats and you can hear them laughing and muttering in Russian during all of Jack Ryan: Shadow Recruit, which you made your now-husband download illegally for you even though he said the quality would be terrible.*
+
+-   I couldn't even say what this painting is or who painted it. What I do know is that I looked around real furtively before I took it while holding my phone in the vicinity of my belly button so no one would catch me. It's photography a la the dudes in Eastern Europe who go to the movies and surreptitiously take video from under their coats and you can hear them laughing and muttering in Russian during all of Jack Ryan: Shadow Recruit, which you made your now-husband download illegally for you even though he said the quality would be terrible.\*
 
 Working title of next post: I Think it's Time to Graduate to Ordering My Steaks Cooked Bleu
 
-- C
+-   C

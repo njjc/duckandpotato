@@ -1,6 +1,6 @@
 ---
-title: 'The French Have Perfected Pickle Technology '
-date: '2013-09-26 18:57:27'
+title: "The French Have Perfected Pickle Technology "
+date: "2013-09-26 18:57:27"
 layout: post
 ---
 
@@ -15,13 +15,15 @@ The good news for America is that the French have solved this problem, with tech
 BEHOLD.
 
 ![the pickles are CLEARLY too far down in the jar to avoid contracting Pickle Juice Fingers™](https://duckandpotato.com/wp-content/uploads/2013/09/pickles-1.jpg)
-* the pickles are CLEARLY too far down in the jar to avoid contracting Pickle Juice Fingers™*
 
- 
+-   the pickles are CLEARLY too far down in the jar to avoid contracting Pickle Juice Fingers™\*
+
+
 
 ![BUT OH THERE IS A PLASTIC THING SITTING UNDER THE PICKLES WITH A HANDLE THAT HAS LITTLE HOOKS ON IT THAT HOOK ONTO THE SIDE OF THE JAR TO BRING THE PICKLES TO THE SURFACE](https://duckandpotato.com/wp-content/uploads/2013/09/pickles-2.jpg)
-* BUT OH THERE IS A PLASTIC THING SITTING UNDER THE PICKLES WITH A HANDLE THAT HAS LITTLE HOOKS ON IT THAT HOOK ONTO THE SIDE OF THE JAR TO BRING THE PICKLES TO THE SURFACE*
 
- 
+-   BUT OH THERE IS A PLASTIC THING SITTING UNDER THE PICKLES WITH A HANDLE THAT HAS LITTLE HOOKS ON IT THAT HOOK ONTO THE SIDE OF THE JAR TO BRING THE PICKLES TO THE SURFACE\*
+
+
 
 You can bet I'll be writing a strongly worded letter to the Vlasic company upon my return to the US.

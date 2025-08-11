@@ -1,6 +1,6 @@
 ---
-title: 'You Just Have to Show That You Care About it More Than I Do'
-date: '2014-08-21 19:14:39'
+title: "You Just Have to Show That You Care About it More Than I Do"
+date: "2014-08-21 19:14:39"
 layout: post
 ---
 
@@ -30,10 +30,10 @@ So in every picture since then, she has made very cute and reasonable faces. Whe
 
 [![Another reasonable face!](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3252-e1408481215361.jpg)](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3252.jpg)
 
- 
+
 
 Mont Saint-Michel is beautiful, and also overrun with tourists like ourselves. Still more than worth the visit, though. If you do go, eat a crepe at the Sirene restaurant, tucked in above a souvenir shop, with awesome cider and reasonable prices compared to the rest of the place.
 
 [![Beautiful Mont Saint-Michel](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3263-e1408481509758.jpg)](https://duckandpotato.com/wp-content/uploads/2014/08/IMG_3263-e1408481509758.jpg)
 
-- N
+-   N

@@ -1,6 +1,6 @@
 ---
-title: 'Why a Duck and a Potato?'
-date: '2013-08-27 01:50:55'
+title: "Why a Duck and a Potato?"
+date: "2013-08-27 01:50:55"
 layout: post
 ---
 
@@ -9,15 +9,16 @@ I'm glad I asked. The potato originated in the New World, just like me and Cat. 
 When the potato was having trouble gaining popularity in 18th century France, Louis XVI planted a plot of potatoes and set his most elite guard to watch over it. The local peasants, thinking their king must be keeping something good from them, stole some of the plants and started to grow them themselves. I actually employed a similar strategy when Cat and I first met. Anyway, from that point forward, the potato spread across the French countryside like wildfire.
 
 ![This might just be Louis XVI receiving a potato.](http://nobility.org/wp-content/uploads/2012/10/cmk24515B.jpg)
-*This might be Louis XVI receiving a potato.*
+_This might be Louis XVI receiving a potato._
 
- 
+
+
 > "In the course of human history, the potato has been a much greater treasure than gold."
 
-- Michael Pollan
-"How many potatoes does it take to kill an irishman?" I asked Cat as we discussed the name of our blog.
+-   Michael Pollan
+    "How many potatoes does it take to kill an irishman?" I asked Cat as we discussed the name of our blog.
 
-"None," she quipped, "and I already know that joke. You already told it to me. Why can't you be *funnier*?" she asked rhetorically for the hundredth time.
+"None," she quipped, "and I already know that joke. You already told it to me. Why can't you be _funnier_?" she asked rhetorically for the hundredth time.
 
 So be it. If my sense of humor isn't going to pull my weight on our shared blog, then I'll have to make up for it elsewhere. Technology skills. A computer brain that can remember everything except where I left that damn coffee mug. The ability to speak French in a land where people really don't speak anything else. And if those don't cut it at some point in the future, the ability and willingness learn new stuff.
 
